@@ -47,5 +47,8 @@
     "babel-plugin-webpack-alias-7": "0.1.1",
     "webpack": "4.41.0",
     "webpack-node-externals": "1.7.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
   }
 }
